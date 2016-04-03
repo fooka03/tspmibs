@@ -1,0 +1,24 @@
+{
+  "name": "tspmibs",
+  "version": "0.0.1",
+  "description": "TSP Genetic Algorithm Program for UO MIBs",
+  "main": "make_points.js",
+  "dependencies": {
+    "json2csv": "^3.2.0",
+    "linebyline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fooka03/tspmibs.git"
+  },
+  "author": "Nigel Foucha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fooka03/tspmibs/issues"
+  },
+  "homepage": "https://github.com/fooka03/tspmibs#readme"
+}
